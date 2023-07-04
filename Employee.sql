@@ -67,4 +67,4 @@ CREATE TABLE IF NOT EXISTS salaries (
 
 SELECT * FROM salaries limit 10;
 
---Create Juction Table.
+
